@@ -1,6 +1,6 @@
 # Desafio 1 - Landing Page | Resolução
 Desafio do módulo base da formação em Engenheiro de Software na Escola DNC
-
+<br/> --- <br/>
 Link do site disponibilizado:
 <br/>
 https://desafio-base-arq.netlify.app 
